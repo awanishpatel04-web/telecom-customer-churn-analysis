@@ -51,6 +51,7 @@ The goal is to identify customer churn patterns, understand major churn reasons,
 - **High charges** is the most common recorded churn reason.
 
 ## 📊 Power BI Dashboard
+ - ![Telecom Customer Churn Dashboard](DashBoard.png)
 
 The Power BI dashboard provides an interactive view of:
 
