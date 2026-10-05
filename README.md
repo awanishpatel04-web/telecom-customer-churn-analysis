@@ -70,6 +70,8 @@ The Power BI dashboard provides an interactive view of:
 - `Telecom_Customer_Churn_Analysis_DashBoard.pbix` — Power BI dashboard
 - `telecom_customer_churn_data_analysis.ipynb` — Python analysis and data cleaning
 - `telecom_churn_cleaned.csv` — Cleaned dataset
+- `telecom_churn_analysis_raw.xlsx` — Raw synthetic telecom dataset
+- `telecom_churn.db` — SQLite database used for SQL analysis
 
 ## ⚠️ Dataset Note
 
