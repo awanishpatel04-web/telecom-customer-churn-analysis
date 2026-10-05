@@ -1,0 +1,121 @@
+customer_id,name,gender,age,city,state,operator,customer_segment,interests,pincode,subscription_start_date,subscription_type,plan_type,contract_type,monthly_charges,tenure_months,cancellation_date,cancellation_reason,churn_status,churn_score
+CUST1001,Customer_1,Male,39,Male,Gujarat,Vi,Individual,Gaming,238099.0,2023-01-26,Postpaid,Standard,Monthly,1008.52,13,2025-01-22,No longer needed,Yes,40
+CUST1002,Customer_2,Female,51,Female,Rajasthan,Vi,Business,Shopping,467904.0,2024-05-18,Prepaid,Premium,Monthly,1175.09,57,,High charges,No,85
+CUST1003,Customer_3,Female,50,Female,Maharashtra,Jio,Senior Citizen,Streaming,856102.0,2022-04-19,Postpaid,Basic,Monthly,1230.73,70,,High charges,No,58
+CUST1004,Customer_4,Male,41,Male,Rajasthan,Airtel,Individual,Streaming,295865.0,2024-07-27,Prepaid,Standard,Monthly,474.54,24,,High charges,No,10
+CUST1005,Customer_5,Male,60,Male,Uttar Pradesh,Airtel,Senior Citizen,Streaming,954227.0,2024-03-28,Postpaid,Basic,Quarterly,1399.92,36,,High charges,No,30
+CUST1006,Customer_6,Female,46,Female,Tamil Nadu,Jio,Individual,Streaming,629475.0,2022-04-09,Postpaid,Basic,Monthly,768.39,38,2023-02-28,No longer needed,Yes,68
+CUST1007,Customer_7,Male,21,Male,Delhi,Airtel,Business,Streaming,641415.0,2022-11-07,Prepaid,Standard,Monthly,1029.72,36,2023-06-12,High charges,Yes,20
+CUST1008,Customer_8,Female,56,Female,Karnataka,Airtel,Individual,Streaming,385336.0,2023-01-14,Prepaid,Standard,Annual,889.84,21,,High charges,No,46
+CUST1009,Customer_9,Male,46,Male,Uttar Pradesh,Jio,Student,Sports,928410.0,2023-12-13,Prepaid,Standard,Monthly,1490.38,69,2025-02-27,No longer needed,Yes,78
+CUST1010,Customer_10,Male,49,Male,Gujarat,Airtel,Business,Shopping,132453.0,2023-08-23,Prepaid,Premium,Monthly,564.17,68,,High charges,No,19
+CUST1011,Customer_11,Female,46,Female,Karnataka,Airtel,Business,Streaming,368803.0,2024-04-07,Prepaid,Standard,Annual,279.68,28,,High charges,No,52
+CUST1012,Customer_12,Female,45,Female,West Bengal,Vi,Student,Sports,476559.0,2022-06-02,Prepaid,Premium,Monthly,794.74,58,2023-11-23,Switched to competitor,Yes,25
+CUST1013,Customer_13,Female,22,Female,Delhi,Airtel,Senior Citizen,Streaming,529547.0,2022-12-08,Postpaid,Basic,Monthly,366.74,29,,High charges,No,55
+CUST1014,Customer_14,Female,45,Female,Karnataka,Jio,Senior Citizen,Gaming,526718.0,2022-08-27,Prepaid,Standard,Monthly,397.02,57,2023-11-03,High charges,Yes,27
+CUST1015,Customer_15,Female,57,Female,Rajasthan,Jio,Individual,Gaming,233131.0,2024-06-27,Prepaid,Standard,Annual,1020.97,42,,High charges,No,96
+CUST1016,Customer_16,Female,33,Female,Uttar Pradesh,Vi,Business,Streaming,303033.0,2022-03-03,Prepaid,Premium,Monthly,709.81,34,,High charges,No,12
+CUST1017,Customer_17,Female,48,Female,West Bengal,Vi,Business,Gaming,185717.0,2023-04-02,Prepaid,Basic,Monthly,1397.41,10,,High charges,No,96
+CUST1018,Customer_18,Male,19,Male,West Bengal,Jio,Student,Streaming,615211.0,2021-06-18,Prepaid,Standard,Monthly,613.9,47,,High charges,No,80
+CUST1019,Customer_19,Female,35,Female,Delhi,Jio,Business,Sports,415781.0,2024-04-05,Prepaid,Standard,Monthly,1143.03,23,,High charges,No,86
+CUST1020,Customer_20,Male,39,Male,Karnataka,Airtel,Senior Citizen,Sports,609194.0,2022-06-22,Postpaid,Basic,Quarterly,798.43,16,,High charges,No,85
+CUST1021,Customer_21,Female,67,Female,Uttar Pradesh,Jio,Senior Citizen,Streaming,630742.0,2022-04-22,Prepaid,Standard,Monthly,1056.94,14,,High charges,No,22
+CUST1022,Customer_22,Male,28,Male,Rajasthan,Vi,Senior Citizen,Streaming,731801.0,2023-03-28,Postpaid,Premium,Quarterly,978.6,70,,High charges,No,93
+CUST1023,Customer_23,Male,31,Male,Rajasthan,Jio,Business,Streaming,592331.0,2022-11-30,Prepaid,Standard,Quarterly,813.62,8,2023-06-18,High charges,Yes,61
+CUST1024,Customer_24,Female,38,Female,Maharashtra,Jio,Student,Sports,683152.0,2024-04-02,Prepaid,Basic,Annual,1434.08,57,,High charges,No,96
+CUST1025,Customer_25,Female,67,Female,Uttar Pradesh,BSNL,Senior Citizen,Streaming,628434.0,2023-01-14,Postpaid,Premium,Monthly,644.53,62,,High charges,No,88
+CUST1026,Customer_26,Female,60,Female,Uttar Pradesh,Jio,Student,Sports,687189.0,2022-12-25,Postpaid,Basic,Annual,429.41,3,,High charges,No,60
+CUST1027,Customer_27,Male,19,Male,Uttar Pradesh,Jio,Business,Sports,654978.0,2021-05-27,Prepaid,Premium,Quarterly,1080.52,42,,High charges,No,40
+CUST1028,Customer_28,Female,29,Female,Gujarat,Jio,Student,Streaming,384592.0,2021-01-31,Prepaid,Basic,Monthly,1298.81,41,,High charges,No,16
+CUST1029,Customer_29,Female,59,Female,Rajasthan,Jio,Student,Travel,321655.0,2022-07-12,Prepaid,Standard,Annual,251.33,26,2023-04-30,High charges,Yes,14
+CUST1030,Customer_30,Male,20,Male,Maharashtra,Jio,Individual,Streaming,808688.0,2024-10-29,Prepaid,Standard,Annual,783.52,48,,High charges,No,42
+CUST1031,Customer_31,Male,60,Male,West Bengal,Jio,Senior Citizen,Travel,408431.0,2024-07-08,Prepaid,Basic,Monthly,1359.23,30,,High charges,No,82
+CUST1032,Customer_32,Male,32,Male,Maharashtra,Jio,Individual,Gaming,594229.0,2023-05-31,Prepaid,Premium,Annual,1173.5,32,,High charges,No,53
+CUST1033,Customer_33,Male,63,Male,Karnataka,Jio,Individual,Streaming,277275.0,2023-06-03,Prepaid,Basic,Monthly,1488.35,31,,High charges,No,50
+CUST1034,Customer_34,Female,32,Female,Tamil Nadu,Airtel,Senior Citizen,Streaming,488275.0,2022-07-03,Prepaid,Standard,Quarterly,889.84,57,,High charges,No,28
+CUST1035,Customer_35,Female,39,Female,West Bengal,Vi,Business,Sports,576696.0,2021-09-06,Postpaid,Basic,Annual,1056.99,45,,High charges,No,58
+CUST1036,Customer_36,Male,51,Male,Gujarat,Airtel,Student,Shopping,663410.0,2021-01-12,Prepaid,Standard,Monthly,592.22,27,,High charges,No,65
+CUST1037,Customer_37,Female,24,Female,Uttar Pradesh,Jio,Business,Shopping,573738.0,2022-04-20,Prepaid,Premium,Annual,1430.8,66,,High charges,No,98
+CUST1038,Customer_38,Female,45,Female,Maharashtra,Airtel,Student,Sports,424591.0,2022-03-20,Prepaid,Premium,Monthly,675.24,57,,High charges,No,74
+CUST1039,Customer_39,Male,43,Male,Karnataka,Vi,Individual,Shopping,965593.0,2021-09-26,Prepaid,Basic,Annual,1159.06,67,,High charges,No,62
+CUST1040,Customer_40,Female,57,Female,Karnataka,Vi,Business,Shopping,561464.0,2021-12-29,Prepaid,Standard,Quarterly,723.08,52,,High charges,No,91
+CUST1041,Customer_41,Male,67,Male,Rajasthan,Jio,Individual,Streaming,827469.0,2021-02-04,Postpaid,Basic,Monthly,929.36,28,2022-10-18,High charges,Yes,45
+CUST1042,Customer_42,Female,51,Female,Gujarat,Jio,Business,Streaming,763034.0,2023-05-02,Postpaid,Standard,Monthly,1134.72,55,,High charges,No,93
+CUST1043,Customer_43,Female,38,Female,Karnataka,Jio,Senior Citizen,Travel,602484.0,2024-07-22,Postpaid,Premium,Monthly,860.61,24,2024-09-13,High charges,Yes,40
+CUST1044,Customer_44,Male,38,Male,Rajasthan,Jio,Senior Citizen,Streaming,897761.0,2023-08-26,Postpaid,Standard,Monthly,1378.21,20,2024-03-29,Customer service,Yes,17
+CUST1045,Customer_45,Male,38,Male,Delhi,Airtel,Student,Sports,215440.0,2022-09-20,Postpaid,Standard,Monthly,744.09,33,,High charges,No,44
+CUST1046,Customer_46,Female,58,Female,Tamil Nadu,Airtel,Senior Citizen,Sports,928950.0,2022-08-12,Postpaid,Standard,Monthly,1040.19,69,2024-10-26,Switched to competitor,Yes,17
+CUST1047,Customer_47,Male,34,Male,Delhi,Jio,Business,Streaming,865202.0,2022-03-07,Prepaid,Premium,Monthly,644.07,41,2022-07-01,Customer service,Yes,16
+CUST1048,Customer_48,Female,26,Female,Maharashtra,Jio,Student,Gaming,553269.0,2021-07-19,Prepaid,Standard,Monthly,889.84,28,2022-08-13,High charges,Yes,88
+CUST1049,Customer_49,Female,34,Female,Rajasthan,Airtel,Individual,Streaming,109654.0,2023-04-18,Prepaid,Basic,Annual,771.07,33,,High charges,No,80
+CUST1050,Customer_50,Female,19,Female,Uttar Pradesh,Jio,Student,Gaming,568247.0,2023-03-05,Prepaid,Standard,Annual,362.55,21,,High charges,No,26
+CUST1051,Customer_51,Female,23,Female,Maharashtra,Vi,Business,Streaming,341887.0,2021-01-11,Prepaid,Basic,Annual,318.24,47,2021-08-09,High charges,Yes,84
+CUST1052,Customer_52,Male,22,Male,Maharashtra,Jio,Senior Citizen,Sports,819882.0,2022-08-05,Postpaid,Basic,Monthly,1066.74,25,,High charges,No,11
+CUST1053,Customer_53,Male,56,Male,Karnataka,BSNL,Individual,Shopping,321329.0,2022-01-25,Prepaid,Basic,Annual,1051.17,40,,High charges,No,32
+CUST1054,Customer_54,Male,54,Male,Maharashtra,Jio,Business,Streaming,383005.0,2021-08-27,Prepaid,Standard,Quarterly,1060.78,27,2021-12-26,No longer needed,Yes,72
+CUST1055,Customer_55,Male,52,Male,Uttar Pradesh,Vi,Senior Citizen,Sports,567361.0,2023-09-12,Prepaid,Standard,Monthly,224.7,23,2024-10-13,No longer needed,Yes,33
+CUST1056,Customer_56,Male,41,Male,West Bengal,BSNL,Senior Citizen,Shopping,853643.0,2023-01-07,Prepaid,Basic,Monthly,623.51,69,,High charges,No,74
+CUST1057,Customer_57,Female,53,Female,Rajasthan,BSNL,Student,Shopping,445533.0,2023-06-07,Prepaid,Standard,Quarterly,456.15,25,,High charges,No,88
+CUST1058,Customer_58,Male,26,Male,Uttar Pradesh,Vi,Individual,Streaming,544726.0,2023-09-26,Postpaid,Premium,Monthly,1210.6,6,,High charges,No,11
+CUST1059,Customer_59,Female,63,Female,Karnataka,Vi,Business,Streaming,137498.0,2024-10-06,Prepaid,Standard,Quarterly,1317.82,27,,High charges,No,7
+CUST1060,Customer_60,Female,43,Female,Tamil Nadu,Airtel,Senior Citizen,Shopping,204270.0,2024-01-29,Postpaid,Standard,Annual,519.68,38,2025-05-26,Switched to competitor,Yes,94
+CUST1061,Customer_61,Female,64,Female,Rajasthan,Vi,Senior Citizen,Streaming,150352.0,2023-05-19,Prepaid,Basic,Monthly,889.84,7,,High charges,No,54
+CUST1062,Customer_62,Female,25,Female,West Bengal,Jio,Business,Streaming,164853.0,2024-05-15,Prepaid,Premium,Monthly,367.17,22,,High charges,No,53
+CUST1063,Customer_63,Male,42,Male,Gujarat,Airtel,Individual,Gaming,881667.0,2022-10-31,Prepaid,Basic,Annual,556.7,12,2023-05-02,High charges,Yes,49
+CUST1064,Customer_64,Female,52,Female,Tamil Nadu,Airtel,Individual,Streaming,857793.0,2024-10-10,Prepaid,Basic,Quarterly,379.25,36,,High charges,No,46
+CUST1065,Customer_65,Female,42,Female,Delhi,Vi,Student,Travel,839696.0,2023-12-03,Postpaid,Premium,Monthly,567.58,52,,High charges,No,70
+CUST1066,Customer_66,Male,40,Male,Maharashtra,Airtel,Business,Sports,109654.0,2023-07-01,Prepaid,Standard,Annual,1076.16,69,,High charges,No,60
+CUST1067,Customer_67,Female,26,Female,Gujarat,Airtel,Individual,Travel,169880.0,2024-06-18,Postpaid,Standard,Annual,889.84,28,,High charges,No,20
+CUST1068,Customer_68,Male,37,Male,Gujarat,Airtel,Business,Gaming,352550.0,2022-12-23,Prepaid,Standard,Quarterly,462.28,62,,High charges,No,64
+CUST1069,Customer_69,Male,29,Male,Uttar Pradesh,Jio,Business,Travel,608765.0,2023-10-06,Postpaid,Standard,Quarterly,903.7,16,2024-01-11,No longer needed,Yes,68
+CUST1070,Customer_70,Male,33,Male,West Bengal,Jio,Individual,Streaming,400716.0,2022-02-03,Prepaid,Basic,Monthly,1110.81,56,2022-06-30,Switched to competitor,Yes,15
+CUST1071,Customer_71,Female,52,Female,Uttar Pradesh,Airtel,Individual,Sports,538803.0,2024-09-10,Prepaid,Basic,Monthly,1437.8,40,,High charges,No,40
+CUST1072,Customer_72,Male,49,Male,West Bengal,Airtel,Student,Gaming,255694.0,2023-05-23,Postpaid,Basic,Quarterly,992.08,54,2025-01-08,Customer service,Yes,80
+CUST1073,Customer_73,Male,48,Male,Gujarat,Jio,Business,Travel,757699.0,2023-12-31,Prepaid,Basic,Monthly,530.64,54,2026-02-16,High charges,Yes,63
+CUST1074,Customer_74,Male,36,Male,Maharashtra,Jio,Senior Citizen,Streaming,109654.0,2022-10-08,Prepaid,Premium,Quarterly,1012.12,38,2023-04-12,No longer needed,Yes,17
+CUST1075,Customer_75,Female,65,Female,Delhi,Jio,Student,Shopping,159886.0,2024-04-28,Prepaid,Basic,Annual,615.64,19,2025-03-02,Customer service,Yes,8
+CUST1076,Customer_76,Male,22,Male,Uttar Pradesh,Jio,Student,Travel,768422.0,2021-04-14,Prepaid,Standard,Monthly,1467.97,38,,High charges,No,60
+CUST1077,Customer_77,Male,35,Male,Tamil Nadu,Jio,Senior Citizen,Shopping,109654.0,2021-06-09,Postpaid,Standard,Quarterly,718.58,59,,High charges,No,48
+CUST1078,Customer_78,Male,23,Male,Rajasthan,Vi,Student,Sports,113214.0,2022-12-11,Postpaid,Standard,Monthly,1090.06,69,,High charges,No,96
+CUST1079,Customer_79,Female,34,Female,Uttar Pradesh,Jio,Student,Gaming,493005.0,2023-10-23,Postpaid,Standard,Annual,229.2,66,2024-09-16,High charges,Yes,54
+CUST1080,Customer_80,Female,66,Female,Delhi,BSNL,Student,Shopping,844455.0,2024-02-07,Prepaid,Standard,Monthly,719.08,13,,High charges,No,93
+CUST1081,Customer_81,Female,36,Female,Rajasthan,BSNL,Individual,Streaming,109654.0,2022-09-09,Prepaid,Premium,Quarterly,1336.64,43,,High charges,No,25
+CUST1082,Customer_82,Male,63,Male,Karnataka,Airtel,Student,Shopping,870892.0,2023-06-29,Prepaid,Standard,Quarterly,992.3,8,,High charges,No,47
+CUST1083,Customer_83,Male,42,Male,Maharashtra,Jio,Business,Travel,473688.0,2023-02-14,Prepaid,Premium,Monthly,776.13,48,,High charges,No,18
+CUST1084,Customer_84,Female,52,Female,Delhi,Airtel,Senior Citizen,Streaming,435035.0,2024-09-08,Prepaid,Premium,Quarterly,1415.72,71,,High charges,No,59
+CUST1085,Customer_85,Female,40,Female,Tamil Nadu,Vi,Business,Gaming,738257.0,2023-07-05,Postpaid,Standard,Annual,889.84,4,,High charges,No,22
+CUST1086,Customer_86,Female,31,Female,West Bengal,Airtel,Business,Streaming,238251.0,2022-08-07,Postpaid,Basic,Quarterly,617.88,47,2023-07-16,Poor network,Yes,51
+CUST1087,Customer_87,Male,56,Male,Karnataka,Vi,Business,Shopping,315478.0,2024-09-19,Postpaid,Standard,Annual,906.91,68,2025-05-19,Customer service,Yes,37
+CUST1088,Customer_88,Male,66,Male,Rajasthan,Airtel,Individual,Gaming,640755.0,2021-05-31,Prepaid,Basic,Annual,835.77,61,,High charges,No,22
+CUST1089,Customer_89,Female,31,Female,Tamil Nadu,Airtel,Student,Travel,701608.0,2024-10-10,Prepaid,Standard,Monthly,1020.86,28,,High charges,No,14
+CUST1090,Customer_90,Female,56,Female,Karnataka,Jio,Senior Citizen,Shopping,207705.0,2021-08-04,Prepaid,Premium,Quarterly,633.34,8,,High charges,No,53
+CUST1091,Customer_91,Male,31,Male,Rajasthan,Vi,Individual,Shopping,557478.0,2022-02-08,Prepaid,Standard,Monthly,516.47,66,,High charges,No,94
+CUST1092,Customer_92,Female,53,Female,Rajasthan,Jio,Senior Citizen,Sports,428427.0,2024-02-25,Prepaid,Standard,Annual,1385.47,66,,High charges,No,23
+CUST1093,Customer_93,Female,57,Female,Delhi,Vi,Business,Gaming,551569.0,2023-10-25,Prepaid,Basic,Quarterly,1400.04,42,,High charges,No,43
+CUST1094,Customer_94,Male,40,Male,Uttar Pradesh,Vi,Student,Shopping,962585.0,2024-09-20,Prepaid,Premium,Monthly,1295.32,70,,High charges,No,26
+CUST1095,Customer_95,Female,54,Female,Tamil Nadu,Jio,Senior Citizen,Travel,109654.0,2023-11-16,Postpaid,Basic,Monthly,1470.67,1,2024-02-02,High charges,Yes,81
+CUST1096,Customer_96,Female,31,Female,Tamil Nadu,Airtel,Senior Citizen,Streaming,995917.0,2023-06-11,Prepaid,Basic,Annual,1167.49,44,2024-10-09,Poor network,Yes,44
+CUST1097,Customer_97,Male,21,Male,Maharashtra,Jio,Individual,Streaming,109654.0,2022-05-01,Postpaid,Basic,Monthly,1193.07,3,,High charges,No,97
+CUST1098,Customer_98,Female,22,Female,West Bengal,Vi,Individual,Streaming,794893.0,2021-01-07,Prepaid,Basic,Quarterly,1190.37,67,,High charges,No,28
+CUST1099,Customer_99,Female,40,Female,Gujarat,Jio,Business,Travel,109654.0,2021-06-23,Prepaid,Standard,Monthly,823.79,49,2022-05-29,Customer service,Yes,12
+CUST1100,Customer_100,Female,63,Female,Uttar Pradesh,BSNL,Senior Citizen,Shopping,379865.0,2022-02-21,Prepaid,Standard,Annual,792.39,65,,High charges,No,60
+CUST1101,Customer_101,Female,24,Female,West Bengal,Jio,Individual,Sports,793538.0,2021-02-27,Prepaid,Basic,Monthly,511.29,40,,High charges,No,66
+CUST1102,Customer_102,Male,40,Male,Maharashtra,BSNL,Business,Travel,718897.0,2022-12-13,Prepaid,Basic,Monthly,889.84,6,,High charges,No,99
+CUST1103,Customer_103,Female,53,Female,West Bengal,Vi,Individual,Streaming,229652.0,2023-12-25,Prepaid,Basic,Annual,575.12,2,,High charges,No,87
+CUST1104,Customer_104,Male,28,Male,Delhi,Airtel,Business,Travel,734865.0,2024-09-10,Postpaid,Standard,Annual,534.15,24,,High charges,No,88
+CUST1105,Customer_105,Female,54,Female,Uttar Pradesh,Vi,Business,Streaming,777768.0,2022-11-17,Prepaid,Basic,Monthly,960.75,53,2023-10-10,No longer needed,Yes,65
+CUST1106,Customer_106,Female,33,Female,Rajasthan,Vi,Individual,Streaming,449057.0,2024-05-10,Prepaid,Standard,Monthly,731.98,11,,High charges,No,39
+CUST1107,Customer_107,Female,58,Female,Maharashtra,BSNL,Business,Streaming,933083.0,2024-10-11,Prepaid,Basic,Annual,889.84,61,,High charges,No,45
+CUST1108,Customer_108,Female,46,Female,Tamil Nadu,Jio,Senior Citizen,Streaming,676799.0,2024-04-18,Prepaid,Basic,Annual,1259.87,18,,High charges,No,17
+CUST1109,Customer_109,Male,45,Male,Maharashtra,Airtel,Senior Citizen,Streaming,400265.0,2022-10-13,Prepaid,Standard,Monthly,1317.74,36,,High charges,No,45
+CUST1110,Customer_110,Female,26,Female,Rajasthan,Jio,Individual,Gaming,109654.0,2022-04-01,Prepaid,Standard,Quarterly,417.01,15,2022-12-17,High charges,Yes,39
+CUST1111,Customer_111,Female,41,Female,West Bengal,Airtel,Individual,Streaming,707463.0,2024-10-01,Postpaid,Basic,Annual,208.76,34,2027-01-17,Customer service,Yes,8
+CUST1112,Customer_112,Female,60,Female,Gujarat,Jio,Individual,Gaming,288151.0,2021-12-05,Postpaid,Basic,Annual,635.97,33,2023-06-19,No longer needed,Yes,24
+CUST1113,Customer_113,Female,18,Female,Delhi,Airtel,Student,Shopping,780873.0,2022-07-31,Postpaid,Premium,Annual,1235.76,1,,High charges,No,55
+CUST1114,Customer_114,Male,55,Male,Delhi,Airtel,Individual,Travel,572578.0,2021-04-14,Prepaid,Basic,Quarterly,1289.93,41,,High charges,No,40
+CUST1115,Customer_115,Female,42,Female,West Bengal,Airtel,Senior Citizen,Sports,520053.0,2024-01-17,Prepaid,Standard,Monthly,378.83,56,2025-02-14,No longer needed,Yes,99
+CUST1116,Customer_116,Female,53,Female,Gujarat,Airtel,Senior Citizen,Shopping,247376.0,2023-06-29,Postpaid,Standard,Annual,1205.64,67,,High charges,No,50
+CUST1117,Customer_117,Male,51,Male,Gujarat,Vi,Senior Citizen,Travel,740354.0,2021-04-29,Prepaid,Basic,Annual,349.42,24,,High charges,No,96
+CUST1118,Customer_118,Male,39,Male,Uttar Pradesh,Vi,Individual,Shopping,249316.0,2021-11-07,Prepaid,Standard,Annual,706.08,63,,High charges,No,67
+CUST1119,Customer_119,Female,33,Female,West Bengal,Airtel,Individual,Streaming,475977.0,2023-02-17,Prepaid,Standard,Monthly,1497.19,63,,High charges,No,8
+CUST1120,Customer_120,Male,49,Male,Uttar Pradesh,Airtel,Senior Citizen,Travel,852673.0,2023-01-27,Postpaid,Premium,Monthly,449.37,71,2023-08-23,No longer needed,Yes,24
